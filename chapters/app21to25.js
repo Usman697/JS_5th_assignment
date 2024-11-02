@@ -25,7 +25,7 @@ document.write(`<h1>Question=4</h1>`)
 var text1='hello world'
 document.write(text1+'<br>')
 var lastindex=text1.lastIndexOf('l')
-document.write('index of n is '+lastindex)
+document.write('index of l is '+lastindex)
 
 //Q=5
 document.write(`<h1>Question=5</h1>`)
